@@ -1,0 +1,14 @@
+﻿# Site navigation links
+
+- title: Isays
+  url: /isays/
+- title: Blog
+  url: /blog/
+- title: About
+  url: /about/
+- title: Search
+  url: /search/
+- title: Feed
+  url: /feed.xml/
+- title: Tags
+  url: /tags/
