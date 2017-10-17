@@ -2,7 +2,7 @@
 layout: post
 title: A Look at Redis 4.0
 description: "With the release of 4.0, Redis comes with a long list of much sought-after improvements, let's take a look at the major items in the improvements list and know what it means"
-category: blog
+categories: blog
 comments: true
 tags: "Redis NewReleases Improvements"
 excerpt: ""

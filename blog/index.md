@@ -1,7 +1,7 @@
 ---
 layout: page
 title: considerate considerations
-excerpt: "An archive of articles sorted by date."
+excerpt: "An archive of blogs sorted by date."
 search_omit: true
 ---
 
