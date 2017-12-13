@@ -1,6 +1,6 @@
 ---
 layout: page
-title: e̶s̶s̶a̶y̶s̶  &nbsp;isays
+title: e̶s̶s̶a̶y̶s̶  &nbsp;isays - opinionated opinions
 excerpt: "An archive of random thoughts sorted by date."
 search_omit: true
 ---

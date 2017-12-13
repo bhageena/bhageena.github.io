@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "some day i'll say"
+title: "Some Day I'll Say"
 modified:
 categories: isays
-excerpt:
+excerpt: " "
 tags: []
 image:
   feature:

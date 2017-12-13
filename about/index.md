@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chandan Rai
-excerpt: ""
+excerpt: "Chandan Rai"
 #image:
 #  feature: so-simple-sample-image-4.jpg
 #  credit: WeGraphics
@@ -10,6 +10,6 @@ excerpt: ""
 
 I am a Senior Technical Lead @ [Exzeo](https://exzeo.com){:target="_blank"}
 <br/>
-Talk to me about: Web/App/Mobile Development
+Talk to me about software development - methodologies, tools and trends.
 <br/>
 Mail me: <crowchirp@gmail.com>

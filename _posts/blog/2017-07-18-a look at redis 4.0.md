@@ -137,7 +137,8 @@ The new MEMORY command gives you information into the memory consumption of a Re
 ```
 
 MEMORY does a lot more than that.
-```code
+
+```
 127.0.0.1:6379> MEMORY HELP
 1) "MEMORY USAGE <key> [SAMPLES <count>] - Estimate memory usage of key"
 2) "MEMORY STATS                         - Show memory usage details"

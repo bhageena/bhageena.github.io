@@ -561,32 +561,31 @@ public string Name
 ```
 With C# 6, the new string interpolation feature enables you to embed the expressions in the format string. Simple preface the string with `$`:
 
-```csharp
+```
 public string FullName => $"{FirstName} {LastName}";
 ```
 
 This initial example used variable expressions for the substituted expressions. You can expand on this syntax to use any expression. For
 example, you could compute a employee's grade point average as part of the interpolation:
 
-```csharp
+```
 public string GetFormattedGradePoint() =>
     $"Name: {LastName}, {FirstName}. G.P.A: {paygrades.Average()}";
 ```
 
 Running the preceding example, you would find that the output for `paygrades.Average()` might have more decimal places than you would like. The string interpolation syntax supports all the format strings available using earlier formatting methods. You add the format strings inside the braces. Add a `:` following the expression to format:
 
-```csharp
+```
 public string GetGradePointPercentage() =>
     $"Name: {LastName}, {FirstName}. G.P.A: {paygrades.Average():F2}";
 ```
 
-The preceding line of code will format the value for `paygrades.Average()` as
-a floating-point number with two decimal places.
+The preceding line of code will format the value for `paygrades.Average()` as a floating-point number with two decimal places.
 
 The `:` is always interpreted as the separator between the expression being formatted and the format string. This can introduce problems when
 your expression uses a `:` in another way, such as a conditional operator:
 
-```csharp
+```
 public string GetGradePointPercentages() =>
     $"Name: {LastName}, {FirstName}. G.P.A: {paygrades.Any() ? paygrades.Average() : double.NaN:F2}";
 ```
@@ -596,7 +595,7 @@ of the conditional operator. In all cases where this happens, you can
 surround the expression with parentheses to force the compiler to interpret
 the expression as you intend:
 
-```csharp
+```
 public string GetGradePointPercentages() =>
     $"Name: {LastName}, {FirstName}. G.P.A: {(paygrades.Any() ? paygrades.Average() : double.NaN):F2}";
 ```
@@ -604,7 +603,7 @@ public string GetGradePointPercentages() =>
 There aren't any limitations on the expressions you can place between the braces. You can execute a complex LINQ query inside an interpolated
 string to perform computations and display the result:
 
-```csharp
+```
 public string GetAllpaygrades() =>
     $@"All paygrades: {paygrades.OrderByDescending(g => g)
     .Select(s => s.ToString("F2")).Aggregate((partial, element) => $"{partial}, {element}")}";
@@ -618,8 +617,7 @@ can be placed between the curly braces of an interpolated string.
 
 In C# 6, we can import the static members of a class into our namespace.  This means we can use the static members of a class directly with no need to qualify them with their namespace or type name. The format is `using static` followed by the type whose static methods you wish to import.  
 
-Often we use a class static methods throughout our code. Repeatedly typing the class name can obscure the meaning of your code. A common
-example is when you write classes that perform many numeric calculations.
+Often we make abundant use of static methods in our code e.g. the utility methods. Calling the static methods requires it's class name to precede it. Repeatedly typing the class name can obscure the meaning of your code. A common example is when you write classes that perform many numeric calculations.
 Your code will be littered with @System.Math.Sin, @System.Math.Sqrt and other calls to different methods in the @System.Math class. The new `using static` syntax can make these classes much cleaner to read. You specify the class you're using:
 
 ```csharp
