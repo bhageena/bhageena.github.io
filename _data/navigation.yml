@@ -9,6 +9,6 @@
 - title: Search
   url: /search/
 - title: Feed
-  url: /feed.xml/
+  url: /feed.xml
 - title: Tags
   url: /tags/

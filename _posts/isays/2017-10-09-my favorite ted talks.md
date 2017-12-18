@@ -9,7 +9,7 @@ image:
   feature:
 readtime: false
 ---
-Now the winter is coming (nah, I ain't gonna say anything of GOT here), get prepared to snuggle in your favorite quilt, with TV remote in hand, steaming hot tea on side table and enjoy your favorite videos. You can watch whatever you want, depending on your taste and situation, but I don't find myself patient enough to watch a full blown movie from start to end, I do like movies but most of the movies I have seen in bits and pieces, sometimes playing my favorite scenes over and over again. Yes, you guessed the stuff I am talking about!
+Now the winter is coming (nah, I ain't gonna say anything of GOT here), get prepared to snuggle in your favorite quilt, with TV remote in hand, steaming hot tea on side table and enjoy your favorite videos. You can watch whatever you want, depending on your taste and situation, but I don't find myself patient enough to watch a full blown movie from start to end, I do like movies but most of the movies I have seen in bits and pieces, sometimes playing my favorite scenes over and over again.
 
 By the way, I have seen few movies in theaters, but am not a theater buff or even a movie buff. Sometimes I regretted the money I spent on watching few Bollywood movies. Only thing I liked out of entire movie was the verbal duel between villain and the hero, just before the actual dishoom dishoom starts, that's where you get the value out of your ticket money :)
 

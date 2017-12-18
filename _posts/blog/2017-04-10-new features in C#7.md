@@ -1,10 +1,10 @@
 ---
 layout: post
-title: New Features in C# 7
+title: New Features in C Sharp 7
 description: "New Features in C# 7"
 categories: blog
 comments: true
-tags: "C# .Net  NewReleases Improvements"
+tags: "CSharp .Net  NewReleases Improvements"
 excerpt: ""
 share: true
 readtime: true

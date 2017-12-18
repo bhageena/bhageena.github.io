@@ -52,8 +52,6 @@ readtime: true
 
 > God gives his hardest battles to his strongest soldiers.
 
-> Surround yourself with those who bring out the best in you, not the stress in you.
-
 > The mind is everything; what you think, you become.
 
 > The 3 C's in life: Choice, Chance, Change. You must make the Choice, to take the Chance, if you want anything in life to Change.
