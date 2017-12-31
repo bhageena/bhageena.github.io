@@ -119,7 +119,7 @@ Now we know some terms and concepts behind related to distributed system, next w
 > The tools we use reinforce the behavior; the behavior reinforces the tool. Thus, if you want to change your behavior, change your tools.
 – Adam Jacob, CTO, Chef
 
-### Cassandra:
+### Cassandra
 Cassandra is a wide column based highly scalable database, it's used for different use cases like simple key value storage or for storing time series data or just your more traditional rows with many columns. Cassandra can provide both eventual and strong consistency. Under the hood it uses consistent hashing to shard your data and also uses gossiping to keep all the nodes informed about the cluster.
 
 ### MongoDB or Couchbase
