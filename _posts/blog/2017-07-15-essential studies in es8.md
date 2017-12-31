@@ -5,7 +5,7 @@ description: "Essential Studies in ES8"
 categories: blog
 comments: true
 tags: "ES8 JavaScript NewReleases Improvements"
-excerpt: ""
+excerpt: "ECMAScript 2017, 8th edition (ES2017/ES8) has been released in June 2017. Since the standard is evolving as open source project, the change requests are actively being made, monitored and adopted by the community as proposals in ES.Next (a dynamic name that refers to whatever the next version is at time of writing). All of the changes in ES8 are available with Node 8 and with the latest version of browsers without babel or any polyfills. Let’s figure out some important changes..."
 share: true
 readtime: true
 ---

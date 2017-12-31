@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How WebKit Works
-description: "Though a lot has changed since halcyon days of webkit -- Chrome forked WebKit and started Blink, Opera adopted Chromium, node-webkit became nw.js  -- still Webkit empowers major share of [web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers#WebKit-based) and has played vital role in the [evolution](https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg)
-of browsers"
+description: ""
 categories: blog
 comments: true
 tags: "webkit rendering-engine"
-excerpt: ""
+excerpt: "Though a lot has changed since halcyon days of webkit -- Chrome forked WebKit and started Blink, Opera adopted Chromium, node-webkit became nw.js  -- still Webkit empowers major share of [web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers#WebKit-based) and has played vital role in the [evolution](https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg)
+of browsers"
 share: true
 readtime: true
 ---

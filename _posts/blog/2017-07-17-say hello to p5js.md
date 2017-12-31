@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Say Hello to p5js
-description: "p5js provides way to create complex interactions compatible across devices with remarkable ease"
+description: ""
 categories: blog
 comments: true
 tags: "p5.js"
-excerpt: ""
+excerpt: "p5js provides way to create complex interactions compatible across devices with remarkable ease"
 share: true
 readtime: true
 ---

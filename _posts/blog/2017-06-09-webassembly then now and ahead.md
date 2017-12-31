@@ -5,7 +5,7 @@ description: "webassembly - then, now and ahead"
 categories: blog
 comments: true
 tags: "WebAssembly EmergingTech"
-excerpt: ""
+excerpt: "The release of [C# 6.0](/blog/what's-new-in-C-6/) in July 2015, brought many long awaited features in C# namely - Exception filters, String interpolation, Dictionary initializer, Await in catch/finally blocks and many more. Now recently released version 7.0 introduces a handful of new features and brings focus on data consumption, code simplification and performance like never before. Let's take a look at what's in store."
 share: true
 readtime: true
 ---

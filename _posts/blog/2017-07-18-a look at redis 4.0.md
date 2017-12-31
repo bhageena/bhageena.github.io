@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A Look at Redis 4.0
-description: "With the release of 4.0, Redis comes with a long list of much sought-after improvements, let's take a look at the major items in the improvements list and know what it means"
+description: ""
 categories: blog
 comments: true
 tags: "Redis NewReleases Improvements"
-excerpt: ""
+excerpt: "With the release of 4.0, Redis comes with a long list of much sought-after improvements, let's take a look at the major items in the improvements list and know what it means"
 share: true
 readtime: true
 ---
@@ -44,11 +44,9 @@ Memory fragmentation is largely related to the allocator you are using e.g. `gli
 
 Now with active memory defragmentation things are a bit more in control, specifically with high delete load actually freeing up unused memory in a timely manner without impacting performance too much.
 
-Now the question is - is Redis managing this itself using simple calls to `jemalloc`, or is `jemalloc` doing it on its own because it has better algorithms than the OS-
+Now the question is -- is Redis managing this itself using simple calls to `jemalloc`, or is `jemalloc` doing it on its own because it has better algorithms than the OS -- as per the [discussion](https://github.com/jemalloc/jemalloc/issues/566) between Redis and jemalloc devs regarding this -- jemalloc is not quite there yet.
 
-As per the [discussion](https://github.com/jemalloc/jemalloc/issues/566) between Redis and jemalloc devs regarding this -- jemalloc is not quite there yet.
-
-Redis will perform its own housekeeping, hence the usage of the term 'active'. [Seems](https://github.com/antirez/redis/pull/3720), rather than metadata being stored for this, there is a periodic active scan and manual measurement.
+Redis will perform its own housekeeping, hence the usage of the term *active*. [Seems](https://github.com/antirez/redis/pull/3720), rather than metadata being stored for this, there is a periodic active scan and manual measurement.
 
 Previously, to fully recover unused memory, you would have to restart the Redis server. Obviously, it is not feasible but when Redis is using more than 50% memory on a 120GB machine, you were forced to consider restarting as an occasional housekeeping option -- now this ridiculous task is no longer necessary.
 

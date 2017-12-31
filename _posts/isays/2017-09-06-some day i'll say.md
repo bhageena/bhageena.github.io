@@ -3,7 +3,7 @@ layout: post
 title: "Some Day I'll Say"
 modified:
 categories: isays
-excerpt: " "
+excerpt: "biding my time"
 tags: []
 image:
   feature:

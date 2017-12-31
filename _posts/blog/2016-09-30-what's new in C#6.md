@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What's new in C Sharp 6
-description: "The rich feature list of C# 6, allows us to write more concise and readable code. The syntax avoids verbosity in many common scenarios and it leads to better developer productivity by helping us concentrate on developing the core features rather than getting entangled in the constructs of the language"
-excerpt: ""
+description: ""
+excerpt: "The rich feature list of C# 6, allows us to write more concise and readable code. The syntax avoids verbosity in many common scenarios and it leads to better developer productivity by helping us concentrate on developing the core features rather than getting entangled in the constructs of the language"
 categories: blog
 tags: CSharp .Net NewReleases Improvements
 comments: true
