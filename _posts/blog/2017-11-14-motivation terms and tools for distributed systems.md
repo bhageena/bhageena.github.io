@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Motivation, Terms and Tools for Distributed Systems"
-categories: isays
-modified:
-excerpt: "Sincere and honest development of one's potential -- it does not apply only on us but also on the things we build. When demand goes up the supply must also match, failing which can be chaotic. Capacity for expansion and growth is vital for survival of not only ours but also of our creations. We need to ensure that our software is scalable"
-tags: []
-image:
-  feature:
+title: Motivation, Terms and Tools for Distributed Systems
+description: ""
+categories: blog
+comments: true
+tags: ["Distributed Systems", "Distributed Systems Terms", "Distributed Systems Tools"]
+excerpt: "Sincere and honest development of one's potential -- it does not apply only on us but also on the things we build. When demand goes up the supply must also match, failing which can be chaotic. Capacity for expansion and growth is vital for survival of not only ours but also of our creations. We need to ensure that our software is scalable."
+share: true
 readtime: true
 ---
 
