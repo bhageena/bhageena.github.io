@@ -6,8 +6,8 @@ description: Chandan Rai (crowchirp)
 logo: site-logo.png
 search: true
 #url: http://chandanrai.com
-#url: http://localhost:4000
-
+url: http://localhost:4000
+name: chandanrai.com
 # Jekyll configuration
 
 permalink:   /:categories/:title/

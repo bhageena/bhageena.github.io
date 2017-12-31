@@ -3,7 +3,7 @@ layout: post
 title: "Quips to Ponder"
 modified:
 categories: isays
-excerpt: ""
+excerpt: "Words of wisdom, culled from various places"
 tags: []
 image:
   feature:
