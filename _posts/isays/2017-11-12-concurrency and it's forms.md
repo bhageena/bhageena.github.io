@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What and Why of Concurrency"
+title: "Concurrency and it's forms"
 categories: isays
 modified:
 excerpt: "Thinking about concurrency is vital to writing correct, scalable, and performant software. However, the successful application of concurrency is a perfect mix of theory and practice. Concurrency is a great way to get more stuff done faster. Due to limitations in heat dissipation technology, [Moore’s Law](https://en.wikipedia.org/wiki/Moore%27s_law) hit practical limits over a decade ago and the only way computing has progressed has been to cram more cores onto a die, and/or use more CPUs. And [Amdahl’s Law](http://en.wikipedia.org/wiki/Amdahl's_law) has ruled ever since"
