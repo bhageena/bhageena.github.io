@@ -67,6 +67,8 @@ An asynchronous program dispatches tasks to devices that can take care of themse
 
 
 ## Further Readings
-[Evolution of concurrency in .net](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency/)
+[Evolution of concurrency in .net](http://joeduffyblog.com/2016/11/30/15-years-of-concurrency)
+
 [Concurrency is not Parallelism: Rob Pike at Waza 2012](https://player.vimeo.com/video/49718712)
+
 [One Nice Explanation of concurrency](https://armstrongonsoftware.blogspot.in/2006/08/concurrency-is-easy.html)
