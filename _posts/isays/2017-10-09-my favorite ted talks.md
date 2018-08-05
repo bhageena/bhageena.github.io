@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Favorite TED Talks"
+title: My Favorite TED Talks
 modified:
 categories: isays
 excerpt: "I like the inspiration or information packed short videos a great deal and what's a better place for it than the TED Talks, the introductory music and clapping itself gets my adrenaline rush."

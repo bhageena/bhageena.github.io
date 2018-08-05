@@ -132,10 +132,10 @@ Both tools are powerful, fast, in-memory data stores that are useful as a cache.
 Its a centralized configuration management tool. It is also used for things like leader election and distributed locking. Zookeeper scales very well for the reads but does not scale that well for the writes. Since zookeeper keeps all their in memory so you cannot store way too much data in the zookeeper. So if you want to store small amount of data which would be highly available and which has tons of read then zookeeper is what you should be using.
 
 ### Kafka
-Its a fault tolerant highly available queue using publisher subscriber or streaming application depending on your use case it can deliver message exactly once and also it keeps all the message ordered inside of partition alpha topping
+Its a fault tolerant highly available queue using publisher subscriber or streaming application depending on your use case. It can deliver message exactly once and also it keeps all the message ordered inside of partition alpha topping.
 
 ### Nginx and HAProxy
-These are load balancers and are very efficient for ings for an example nginx can manage thousands or even tens of thousands of connection from a client from a single instance
+These are  two popular open-source software load balancers and very efficient for ings for an example nginx can manage thousands or even tens of thousands of connection from a client from a single instance.
 
 ### Solr and Elasticsearch
 Both of them are search platform on top of you see both of them are highly available very scalable and fault tolerant search platform and they do provide things like full-text search.

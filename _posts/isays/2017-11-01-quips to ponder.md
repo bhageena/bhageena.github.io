@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quips to Ponder"
+title: Quips to Ponder
 modified:
 categories: isays
 excerpt: "Words of wisdom, culled from various places"
