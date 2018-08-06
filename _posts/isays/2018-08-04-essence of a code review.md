@@ -19,21 +19,17 @@ Following are some points that needs to be imbibed for the code review process t
 ## Getting Ready (as reviewee)
 
 So before you raise your brainchild to be pulled into real world (create pull request)!
-Few points to ponder (the nine commandments)
+Few points to ponder (the seven commandments)
 
 * Never break the repository - Always hit the CTRL+SHIFT+B (if using visual studio) once and check your error console.
 
-* Commits should be associated to Tasks/Bugs - Make sure you have a Jira item, if not create one :)
+* Commits should be associated to Tasks/Bugs - Make sure you have a Ticket in your Task/Bug Tracking System for your change, if not, create one.
 
 * Review before review - Review your own PR before anyone else does.
 
-* Review actively - Not added as reviewer, don't be neutral, great learning opportunity awaiting you, go ahead put in your appreciations or apprehensions.
-
-* The time to do an accurate code review increases exponentially with the size of the change as well as the size of the material impacted by the change - So keep your PR short.
+* The time to do an accurate code review increases exponentially with the size of the change as well as the size of the material impacted by the change - so keep your PR short.
 
 * If the effort for a code review exceeds a threshold, it becomes increasingly likely that the review will be cursory rather than detailed and lose value - so keep your PR short.
-
-* The ability/effectiveness to act on feedback (from code review and other source) decreases rapidly with the passage of time - So review quickly.
 
 * When in doubt, raise alarm! (ask other team members)
 
@@ -41,7 +37,7 @@ Few points to ponder (the nine commandments)
 
 ## Doing the job (as reviewer)
 
-> "Listen! Do you smell something?" Ghostbusting requires keen senses.
+* The ability/effectiveness to act on feedback (from code review and other source) decreases rapidly with the passage of time - So review quickly.
 
 * Formatting: Make sure code formatting is consistent and easy to read.
 
@@ -63,5 +59,8 @@ Few points to ponder (the nine commandments)
 
 * Using resources efficiently/effectively (Does the code use locks to access shared resources? Could this result in poor performance or deadlocks? Does the code close connections/streams?)
 
+* Review actively - Not added as reviewer, don't be neutral, great learning opportunity awaiting you, go ahead put in your appreciations or apprehensions.
+
+> "Listen! Do you smell something?" Ghostbusting requires keen senses.
 
 ---
