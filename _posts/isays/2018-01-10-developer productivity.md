@@ -3,7 +3,7 @@ layout: post
 title: Practices leading to Enhanced Developer Productivity
 categories: isays
 modified:
-excerpt: "Notifications, Meetings, Emails, Interruptions are some of the majaor developer's productivity killers. Great managers know and try to obliterate them. Bad managers cause them!"
+excerpt: "Notifications, Meetings, Emails, Interruptions are some of the major developer's productivity killers. Great managers know and try to obliterate them. Bad managers cause them!"
 tags: []
 image:
   feature:
@@ -45,6 +45,6 @@ Great managers know and try to obliterate them. Bad managers cause them!
 
 Running an organization is like running a family. In family, it's not wise to have too many children and not be able to rear them well in a respectable manner. In modern age, the cost is extremely high in every respect - money, time, attention. Small family means better life - quality education, proper food, proper medical care and thus a better life.
 
-Same goes with the organizations. Modern monolithic organizational structures should be refactored into distributed structures, the microservices way, having their own responsibilities and interfaces clearly defined with no overlapping with each other. There should be mutually agreed communication patterns and modes. They should fail independently. There should be transparency.
+Same goes with the organizations. Modern monolithic organizational structures should be refactored into distributed structures, the microservices way, having their own responsibilities and interfaces clearly defined with no overlapping with each other. There should be mutually agreed communication patterns and modes. They should fail independently.
 
 ---

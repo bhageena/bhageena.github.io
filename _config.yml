@@ -2,7 +2,7 @@
 
 title: life long learner
 locale: en_US
-description: Chandan Rai (crowchirp)
+description: Chandan Rai
 logo: site-logo.png
 search: true
 #url: http://chandanrai.com
@@ -42,13 +42,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Chandan Rai
   avatar: bio-photo.jpg
-  email: crowchirp@gmail.com
-  disqus-shortname: crowchirp
-  twitter: crowchirp
+  email: rai.chandan@outlook.com
+  disqus-shortname: bhageena
+  twitter: bhageena
   facebook: #crowchirp
-  github: crowchirp
-  stackexchange: http://stackoverflow.com/users/1530987/crowchirp
-  linkedin: crowchirp
+  github: bhageena
+  stackexchange: http://stackoverflow.com/users/1530987/bhageena
+  linkedin: bhageena
   instagram: #username
   flickr: #username
   tumblr: #username
