@@ -5,9 +5,9 @@ locale: en_US
 description: Chandan Rai
 logo: site-logo.png
 search: true
-url: https://chandanrai.in
+url: https://chandanrai.tech
 #url: http://localhost:4000
-name: chandanrai.in
+name: chandanrai.tech
 # Jekyll configuration
 
 permalink: /:categories/:title/
